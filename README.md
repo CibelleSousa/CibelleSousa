@@ -1,68 +1,58 @@
-<h2 align="left">Oi 👋! Sou a Cibelle e sou Desenvolvedora Full Stack.</h2>
+# Olá, eu sou a Cibelle Rodrigues! 👋 👩‍💻
 
-###
+**AI Engineer | Software Engineer | Ciência da Computação (UESC)**
 
-<p align="left">Estudante de Ciência da Computação apaixonada por criar soluções tecnológicas que geram impacto real na sociedade.<br><br>Tenho experiência prática com desenvolvimento mobile e um forte histórico de liderança universitária. Fui Presidente e Diretora de RH da LIFE Jr. por um ano e três meses, onde aprendi a gerenciar processos complexos, estruturar equipes e promover uma cultura colaborativa.<br><br>Atualmente, atuo há um ano como bolsista na Plataforma Cacau, um projeto de extensão da UESC. Lá, construo um aplicativo para que cacauicultores possam coletar, gerenciar e analisar os dados de suas safras de forma eficiente.<br>Estou em busca da minha primeira oportunidade de estágio como Desenvolvedora Mobile ou Full Stack, aliando minha visão de negócios com a minha paixão por código. <br><br>Tenho sólidos conhecimentos no ecossistema JavaScript/TypeScript utilizando React, React Native para a construção de interfaces e Node.js e NestJS para construção de APIs REST.<br><br>Aberta a desafios e pronta para aprender! 💻🚀</p>
+Sou desenvolvedora Full-Stack e entusiasta de Inteligência Artificial, focada em construir soluções que resolvem problemas reais de negócio. Tenho experiência prática no desenvolvimento de **pipelines com LLMs (Gemini, Claude, Ollama)**, uso avançado de **Claude Code** para aceleração de desenvolvimento, técnicas de **Few-Shot Prompting**, avaliação de modelos e **Visão Computacional (YOLOv8)**. 
 
-###
+Acredito no poder de aliar código limpo a uma infraestrutura segura (100% local e conteinerizada com Docker) para escalar impacto com responsabilidade e "mentalidade de dona".
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/CibelleSousa/CibelleSousa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/CibelleSousa/CibelleSousa/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🚀 Principais Projetos (Destaques de IA)
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif"  />
+*   🏋️‍♀️ **[TrainMe](https://github.com/CibelleSousa/trainme):** Agente de IA para progressão de treinos. Pipeline full-stack (FastAPI, React) que extrai dados estruturados de áudio/texto. Implementei um sistema de roteamento entre modelos em nuvem (Gemini - 94% de acurácia) e locais (Ollama Qwen3:8b), comprovando empiricamente que técnicas de *few-shot* elevaram a precisão local de 13% para 67%.
+*   🗺️ **[TuristAI](https://github.com/davidmarianosantos/turistai):** Solução de redirecionamento inteligente de fluxo turístico focado em segurança (HackTurismo). Liderei a ideação do produto e utilizei **Claude Code** para acelerar a entrega do painel web de gestão pública.
+*   🏭 **[Hawkeye](https://github.com/CibelleSousa/hawkeye-pcb-defect-detection):** Detecção de anomalias industriais (PCB) utilizando **Visão Computacional (YOLOv8)**. Atuei no *transfer learning*, testes de generalização e correção de viés (*overfitting* de cor vs. geometria) resultando na validação e calibração fina do modelo.
+*   🧩 **[Clarivida](https://github.com/CibelleSousa/clarivida-vidros):** Otimização espacial (corte 2D) desenvolvida com algoritmo de busca heurística híbrida (A-star) e back-end em Node.js.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-</div>
+### 🛠️ Tech Stack & Ferramentas
 
-###
+**Inteligência Artificial & Dados:**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-343541?style=for-the-badge&logo=openai&logoColor=white)
+
+**Engenharia de Software:**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.youtube.com/@CSRodriguess" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="cibellesousarodriguess@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/cibellerods" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CibelleSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cibelle's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CibelleSousa&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" />
 </div>
 
-###
+<br>
 
-<br clear="both">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/CibelleSousa/CibelleSousa/snake-output/snake.svg" alt="Snake animation" />
-
-###
+---
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/cibellerods) | cibelle.rodrigues@outlook.com
