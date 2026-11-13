@@ -2,17 +2,17 @@
 
 **AI Engineer | Software Engineer | Ciência da Computação (UESC)**
 
-Sou desenvolvedora Full-Stack e entusiasta de Inteligência Artificial, focada em construir soluções que resolvem problemas reais de negócio. Tenho experiência prática no desenvolvimento de **pipelines com LLMs (Gemini, Claude, Ollama)**, uso avançado de **Claude Code** para aceleração de desenvolvimento, técnicas de **Few-Shot Prompting**, avaliação de modelos e **Visão Computacional (YOLOv8)**. 
+Sou desenvolvedora Full-Stack e entusiasta de Inteligência Artificial, focada em construir soluções que resolvem problemas reais de negócio. Tenho experiência prática no desenvolvimento de **pipelines com LLMs (Gemini, Claude e Ollama)**, uso avançado de **Claude Code** para aceleração de desenvolvimento, técnicas de **Few-Shot Prompting**, avaliação de modelos e **Visão Computacional (YOLOv8)**. 
 
-Acredito no poder de aliar código limpo a uma infraestrutura segura (100% local e conteinerizada com Docker) para escalar impacto com responsabilidade e "mentalidade de dona".
+Acredito no poder de aliar código limpo a uma infraestrutura segura (modelos locais com Ollama e aplicações conteinerizadas com Docker) para escalar impacto com responsabilidade e "mentalidade de dona".
 
 ---
 
 ### 🚀 Principais Projetos (Destaques de IA)
 
-*   🏋️‍♀️ **[TrainMe](https://github.com/CibelleSousa/trainme):** Agente de IA para progressão de treinos. Pipeline full-stack (FastAPI, React) que extrai dados estruturados de áudio/texto. Implementei um sistema de roteamento entre modelos em nuvem (Gemini - 94% de acurácia) e locais (Ollama Qwen3:8b), comprovando empiricamente que técnicas de *few-shot* elevaram a precisão local de 13% para 67%.
+*   🏋️‍♀️ **[TrainMe](https://github.com/CibelleSousa/trainme):** Agente de IA para progressão de treinos. Pipeline full-stack (FastAPI, React) que extrai dados estruturados de treinos escritos ou falados. Implementei um sistema de roteamento entre modelos em nuvem (Gemini, com 94% de acerto exato) e locais (Ollama Qwen3:8b), medindo em 52 exemplos que técnicas de *few-shot* elevaram a precisão local de 13% para 67%.
 *   🗺️ **[TuristAI](https://github.com/davidmarianosantos/turistai):** Solução de redirecionamento inteligente de fluxo turístico focado em segurança (HackTurismo). Liderei a ideação do produto e utilizei **Claude Code** para acelerar a entrega do painel web de gestão pública.
-*   🏭 **[Hawkeye](https://github.com/CibelleSousa/hawkeye-pcb-defect-detection):** Detecção de anomalias industriais (PCB) utilizando **Visão Computacional (YOLOv8)**. Atuei no *transfer learning*, testes de generalização e correção de viés (*overfitting* de cor vs. geometria) resultando na validação e calibração fina do modelo.
+*   🏭 **[Hawkeye](https://github.com/CibelleSousa/hawkeye-pcb-defect-detection):** Detecção de anomalias industriais (PCB) utilizando **Visão Computacional (YOLOv8)**. Atuei no *transfer learning*, nos testes de generalização e na identificação de viés (o modelo aprendeu a cor em vez da geometria dos defeitos), com análise de *overfitting* e validação do modelo.
 *   🧩 **[Clarivida](https://github.com/CibelleSousa/clarivida-vidros):** Otimização espacial (corte 2D) desenvolvida com algoritmo de busca heurística híbrida (A-star) e back-end em Node.js.
 
 ---
@@ -39,20 +39,15 @@ Acredito no poder de aliar código limpo a uma infraestrutura segura (100% local
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CibelleSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cibelle's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CibelleSousa&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CibelleSousa/CibelleSousa/stats-output/stats.svg" height="165" alt="Cibelle's GitHub Stats" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/CibelleSousa/CibelleSousa/languages-output/languages.svg" height="165" alt="Top Langs" />
+</p>
 
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CibelleSousa/CibelleSousa/snake-output/snake.svg" width="100%" alt="github contribution grid snake animation" />
+</p>
 
 ---
 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/cibellerods) | cibelle.rodrigues@outlook.com
